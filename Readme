@@ -1,1 +1,28 @@
+This web application is designed to visually demonstrate the inner workings of classic sorting algorithms using HTML, CSS, and JavaScript. It offers an interactive and educational platform to understand how different sorting techniques operate by watching them in action.
 
+📌 Purpose
+The primary goal of this project is to strengthen my web development skills in HTML, CSS, and JavaScript while creating a useful tool for beginners to learn about sorting algorithms. By visualizing these algorithms, users can gain a deeper understanding of their behavior, efficiency, and the concept of algorithmic sorting.
+
+📊 Supported Sorting Algorithms
+This application currently supports the following sorting algorithms:
+
+🔄 Bubble Sort: Repeatedly swaps adjacent elements if they are in the wrong order.
+📍 Insertion Sort: Builds the sorted array one element at a time by repeatedly picking the next item and inserting it into its correct position.
+🔍 Selection Sort: Repeatedly finds the minimum element and places it at the beginning of the unsorted portion
+
+
+🛠️ How It Works
+Generate Array: Users can generate a random array of numbers to be sorted.
+Select Algorithm: Choose the desired sorting algorithm from the dropdown menu.
+Adjust Speed: Control the speed of the visualization for better observation.
+Sort: Watch the chosen sorting algorithm in action as it sorts the array step-by-step.
+
+🌟 Features
+Interactive Visuals: Observe sorting algorithms dynamically sorting arrays with real-time animations.
+Customizable Settings: Change array size and sorting speed to suit your learning pace.
+Educational Tool: Perfect for beginners to get a visual intuition for how different sorting algorithms work.
+
+📈 Benefits
+Enhances understanding of sorting algorithms through visual learning.
+Helps beginners bridge the gap between theoretical knowledge and practical implementation.
+Provides a fun and engaging way to study algorithms.
